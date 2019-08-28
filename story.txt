@@ -1,4 +1,4 @@
 This is a story all about how my life got turned upside down...
-I don't remember the rest of the song AAAAAAAAAAAAH
-Thus, new song: I'm solo, I'm riding solo soloooo.
-int x = 70;
+I DO remember the rest of the song, but I will sing another:
+I'm solo, I'm riding solo soloooo.
+int x = 10;
